@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lets Cook</string>
+    <string  name="start_button"> Lets get started! </string>
+    <string  name="diet_restriction"> Diet Restriction </string>
+    <string  name="serving_restriction"> Serving Restriction </string>
+    <string name="results_found">Results Found</string>
+    <string name="recipe_title">Recipe Title</string>
+    <string  name="prep_time"> Preparation Time </string>
+    <string name="search_recipe">  Search</string>
+
+</resources>
